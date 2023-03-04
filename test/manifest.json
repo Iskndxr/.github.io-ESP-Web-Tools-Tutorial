@@ -1,5 +1,5 @@
 {
-  "name": "ESPHome",
+  "name": "Fish-Bytes",
   "builds": [
     {
       "chipFamily": "ESP32",
