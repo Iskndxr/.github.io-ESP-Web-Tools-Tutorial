@@ -5,7 +5,10 @@
       "chipFamily": "ESP8266",
       "improv": true,
       "parts": [
-        { "path": "esp8266.bin", "offset": 0 }
+        { "path": "esp8266.bin", "offset": 4177920 }
+        { "path": "blank.bin", "offset": 516096 }
+        { "path": "boot.bin", "offset": 0 }
+        { "path": "user1.1024.new.2.bin", "offset": 4096 }
       ],
     }
   ]
